@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "J. Son"
   avatar           : "/assets/images/config/Profile_JSON.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A for Apple, B for Ball, and I am an **amazing** person."
+  bio              : "This is a test sample of our blog."
   location         : "Japan"
   email            : "bemba@naver.com"
   links:
