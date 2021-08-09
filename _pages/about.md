@@ -1,11 +1,9 @@
 ---
-layout: page
-title: About Me
+layout: pages
+title: "About Me"
 permalink: /about/
+author_profile: true
 ---
-![Profile Photo]({{site.baseurl}}/images/Profile_Photo.png "A lovely day in Jeju island")
-### Jaewon Son
-> Living in accordance with Kaizen (improvements)
 
 I am a thermal and fluid management engineer working in the automotive industry. Born and bred in South Korea, but currently living in Japan.
 My key skills and interests are:
