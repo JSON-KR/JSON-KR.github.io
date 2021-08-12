@@ -1,8 +1,11 @@
 
 ---
 title: "About Me"
+layout: single
 permalink: /about/
 ---
+
+**SHOULD BE UPDATED!!!**
 
 I am a thermal and fluid management engineer working in the automotive industry. Born and bred in South Korea, but currently living in Japan.
 My key skills and interests are:
