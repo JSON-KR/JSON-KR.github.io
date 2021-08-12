@@ -1,9 +1,11 @@
 
 ---
-title: "About Me"
+title: "About Us"
 layout: single
 permalink: /about/
+author_profile: true
 ---
+
 
 **SHOULD BE UPDATED!!!**
 
