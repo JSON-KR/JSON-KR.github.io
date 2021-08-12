@@ -101,21 +101,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "J. Son"
+  name             : "J. Son & A. Kanno"
   avatar           : "/assets/images/config/Profile_JSON.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This is a test sample of our blog."
-  location         : "Japan"
+  location         : "Utsunomiya, Japan"
   email            : "bemba@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bemba@naver.com"
+#      url: "mailto:bemba@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -124,7 +124,7 @@ author:
       url: "https://github.com/JSON-KR"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -135,13 +135,13 @@ footer:
       
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "fab fa-fw fa-twitter-square"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/JSON-KR"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -150,7 +150,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/"
 
 
 # Reading Files

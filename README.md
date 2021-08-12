@@ -1,1 +1,1 @@
-J.Son
+J.Son & A.Kanno Startup Blog
