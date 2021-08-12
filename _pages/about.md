@@ -2,14 +2,6 @@
 ---
 title: "About Me"
 permalink: /about/
-author_profile: true
-excerpt_separator: "<!--more-->"
-categories:
-  - Post Formats
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 
 I am a thermal and fluid management engineer working in the automotive industry. Born and bred in South Korea, but currently living in Japan.
